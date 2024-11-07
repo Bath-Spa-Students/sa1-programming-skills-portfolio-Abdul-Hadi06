@@ -1,5 +1,5 @@
 #Declare a variable and initialize it to hold the integer value 13.
-first_number = 13
+first_number = 13 
 # Declare another variable, and initialize its initial value with the integer 22.
 second_number = 22
 # Declare a third variable, and initialize its initial value with the integer 37.
