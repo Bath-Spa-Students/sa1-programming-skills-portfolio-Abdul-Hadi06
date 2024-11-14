@@ -1,4 +1,4 @@
-#Declare a variable and initialize it to hold the integer value 8.
+ #Declare a variable and initialize it to hold the integer value 8.
 first_number = 8
 # Declare another variable, and initialize its initial value with the integer 10.
 second_number = 10
